@@ -6,15 +6,10 @@ import {
   DiNodejs,
   DiMongodb,
   DiPython,
-  DiGit,
   DiJava,
 } from "react-icons/di";
 import {
-  SiFirebase,
-  SiNextdotjs,
-  SiPostman,
-  SiPowerbi,
-  SiGithub,
+  SiNextdotjs
 } from "react-icons/si";
 
 function Techstack() {
